@@ -1,0 +1,5 @@
+[theme]
+primaryColor = "#4CAF50"        # Green (Button & Accent Color)
+backgroundColor = "#1E1E1E"     # Dark Background
+secondaryBackgroundColor = "#333333" # Sidebar Background
+textColor = "#FFFFFF"           # White Text
